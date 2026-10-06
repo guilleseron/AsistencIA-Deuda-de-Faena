@@ -3,6 +3,7 @@ import pandas as pd
 import os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 
 # Configuración de página
 st.set_page_config(page_title="Consulta de Deuda SAGyP", layout="wide")
@@ -123,12 +124,12 @@ def main():
                 """
             )
             
-            chain = prompt_template | llm
+            chain = prompt_template | llm | StrOutputParser()
             datos_contexto = df_salida.to_csv(index=False)
             
             with st.spinner("Generando síntesis mediante IA..."):
                 respuesta_llm = chain.invoke({"datos_deuda": datos_contexto})
-                st.info(respuesta_llm.content)
+                st.info(respuesta_llm)
 
 if __name__ == "__main__":
     main()
