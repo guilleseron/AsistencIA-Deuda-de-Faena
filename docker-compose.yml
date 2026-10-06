@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app-deuda-sagyp:
+    build: .
+    container_name: validador_deuda_streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - .env
+    restart: unless-stopped
