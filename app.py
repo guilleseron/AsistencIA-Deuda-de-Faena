@@ -9,11 +9,23 @@ st.set_page_config(page_title="Consulta de Deuda SAGyP", layout="wide")
 
 # Inicialización del modelo LLM vía LangChain
 def init_llm():
-    api_key = os.environ.get("GOOGLE_API_KEY")
-    if not api_key:
-        st.error("Error: Variable de entorno GOOGLE_API_KEY no configurada.")
+    # Intento de lectura estricta desde st.secrets
+    try:
+        api_key = st.secrets["GOOGLE_API_KEY"]
+    except KeyError:
+        st.error("Error: Credencial GOOGLE_API_KEY no configurada en los secretos de Streamlit.")
         st.stop()
-    return ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
+        
+    if not api_key or len(api_key) < 10:
+         st.error("Error: La credencial proporcionada parece estar vacía o es inválida.")
+         st.stop()
+
+    # Actualización del identificador del modelo a una versión vigente
+    return ChatGoogleGenerativeAI(
+        model="gemini-3.5-flash-lite", 
+        temperature=0,
+        api_key=api_key
+    )
 
 # Carga de datos
 @st.cache_data
