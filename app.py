@@ -17,17 +17,25 @@ def init_llm():
 
 # Carga de datos
 @st.cache_data
-def load_data(file_path):
+def load_data():
     try:
-        # Se fuerza el tipo string para identificadores
+        # Se define el ID extraído de Google Drive
+        file_id = "1z0PpKAbw37rG-koBo4SieWAquFETP3ce"
+        
+        # Se construye la URL de descarga directa de Google Drive
+        url_descarga = f"https://drive.google.com/uc?export=download&id={file_id}"
+        
         dtypes = {
             'establecimiento': str,
             'cuit_titular': str,
             'matricula': str,
             'dte': str
         }
-        df = pd.read_excel(file_path, dtype=dtypes)
+        
+        # Pandas efectúa la lectura directamente desde la URL
+        df = pd.read_excel(url_descarga, dtype=dtypes)
         return df
+    
     except Exception as e:
         st.error(f"Error al cargar el archivo de datos: {e}")
         st.stop()
@@ -37,7 +45,7 @@ def main():
     st.markdown("### Resolución Nº 40/2026 SAGyP")
 
     llm = init_llm()
-    df = load_data("data/deuda.xlsx")
+    df = load_data()
 
     # Formulario de entrada de datos
     with st.form("consulta_form"):
