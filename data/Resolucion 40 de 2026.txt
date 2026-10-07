@@ -1,4 +1,58 @@
-Título I
+CONSIDERANDO:
+
+Que por el decreto 50 del 19 de diciembre de 2019 y sus modificatorios, se aprobó el organigrama de aplicación de la Administración Nacional centralizada hasta nivel de Subsecretaría, aprobando, entre los objetivos de la Secretaría de Agricultura, Ganadería y pesca del Ministerio de Economía el de entender en la matriculación, registro y fiscalización de las operatorias de las personas humanas o jurídicas que intervengan en el comercio e industrialización de las distintas cadenas agroalimentarias y agroindustriales, ejerciendo las funciones de control, fiscalización y poder de policía previstas por las leyes 21.453, 21.740 y 25.507, por el artículo 12 de la ley 25.345, por el decreto- ley 6.698/63, conforme transferencia autorizada mediante artículo 1° de la resolución 592/93 del ex Ministerio de Economía y Obras y Servicios Públicos, por los decretos 1405/01, 2647/02 y 1067/05, y la resolución 109/06 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentos del entonces Ministerio de Economía y Producción, implementando las acciones necesarias a tales fines en todo el territorio nacional y aplicando su régimen sancionatorio.
+
+Que en ejercicio de las facultades contempladas en el artículo 99, inciso 3 de la Constitución Nacional, el Poder Ejecutivo Nacional dictó el decreto 70 del 20 de diciembre de 2023, fijando como objetivo, entre otros, reconstruir la economía a través de la inmediata eliminación de barreras y restricciones estatales que impidan su normal desarrollo, promoviendo una mayor inserción en el comercio mundial.
+
+Que la normativa vigente en materia de procesos de faena, identificación y trazabilidad individual se encuentra dispersa en diversos cuerpos regulatorios, muchos de los cuales han quedado total o parcialmente obsoletos en razón del paso del tiempo y como consecuencia de la incorporación de nuevas tecnologías, circunstancia que torna necesario actualizar, simplificar y unificar el marco normativo a fin de brindar mayor claridad tanto a la Administración como a los operadores.
+
+Que la resolución 455 del 25 de abril de 1973 de la ex Junta Nacional de Carnes, implementa la regulación sobre la clasificación y tipificación de las reses bovinas, estableciendo los tipos y grados de gordura aplicables, los requisitos para su identificación mediante sellos, las condiciones para su uso comercial y exportación, y las pautas para su pesaje y marcación oficial, de modo de asegurar un tratamiento uniforme y controlado en toda la etapa de faena y destino comercial.
+
+Que la resolución 936 del 11 de noviembre de 1981 de la ex Junta Nacional de Carnes determina la obligación de los establecimientos faenadores de llevar registros formales y rubricados de todas las operaciones vinculadas al movimiento de hacienda y carne, en libros específicos para cada especie y bajo pautas de integridad, conservación y disponibilidad para el control oficial.
+
+Que la resolución 152 del 24 de noviembre de 1983 de la ex Junta Nacional de Carnes estipula que: “Los establecimientos faenadores de bovinos y porcinos que cuenten con el Servicio de Clasificación y Tipificación Oficial, deberán entregar al Tipificador Oficial de la Junta Nacional de Carnes, antes del comienzo de la faena (Martillo), una ‘Lista de Matanza’ (…)”.
+
+Que la resolución 400 del 31 de julio de 2001 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentación del entonces Ministerio de Economía, implementa la identificación de las reses en los establecimientos faenadores, estableciendo cómo deben numerarse y marcarse según cada especie, dónde deben colocarse los sellos, qué características deben tener la tinta y los textos utilizados, y en qué casos deben reemplazarse por etiquetas con información completa sobre la faena, todo bajo responsabilidad del establecimiento para asegurar su correcta legibilidad.
+
+Que la disposición 1988 del 20 de mayo de 2005 de la ex Oficina Nacional de Control Comercial Agropecuario, organismo descentralizado en la órbita de la ex Secretaría de Agricultura, Ganadería, Pesca yAlimentos del entonces Ministerio de Economía y Producción aprueba el modelo de los sellos identificatorios que deben usarse para clasificar las reses porcinas según su porcentaje de magro, conforme a la resolución 144 del 16 de marzo de 2005 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentos del entonces Ministerio de Economía y Producción.
+
+Que la resolución 4 del 18 de abril de 2008 de la citada ex Oficina Nacional fija la obligación de los establecimientos faenadores de hacienda equina, respecto del registro de las operaciones en un libro de hojas fijas y foliación correlativa, rubricado al efecto por la referida ex Oficina Nacional, detallando asimismo las condiciones que debe cumplir el libro mencionado.
+
+Que la resolución 43 del 7 de mayo de 2008 de la mencionada ex Oficina Nacional, estipula la obligación de los establecimientos faenadores de hacienda caprina respecto del registro de las operaciones que se detallan en libros de hojas fijas y foliación correlativa, rubricado al efecto por la precitada ex Oficina Nacional, además de las condiciones exigibles de dicho libro.
+
+Que mediante la resolución 586 del 11 de septiembre de 2015 del entonces Ministerio de Agricultura, Ganadería y Pesca, se creó el Sistema Integral de Faena (S.I.F.), mediante el cual los establecimientos faenadores registran la hacienda destinada a faena.
+
+Que si bien dicho sistema se mantiene en funcionamiento, gran parte de las disposiciones de aquella resolución han quedado desactualizadas o en desuso, por lo que resulta preciso su derogación.
+
+Que, en este sentido, se dispone que el S.I.F. seguirá operando bajo esta nueva regulación, y que todos los documentos físicos y electrónicos generados hasta el momento, conservan plena validez, carácter y efectos para todos los fines que correspondan.
+
+Que mediante el artículo 7° de la resolución 71 del 16 de octubre de 2024 de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, que establece la utilización de tecnología electrónica como herramienta de identificación individual obligatoria para la trazabilidad de ganados bovinos, bubalinos y cérvidos a partir del 1° de enero de 2026, se instruyó a la Dirección Nacional de Control Comercial Agropecuario de la referida Secretaría a adecuar la normativa aplicable en el marco de su competencia, con el objeto de asegurar la continuidad de la trazabilidad individual durante la etapa de faena.
+
+Que, en virtud de dicho mandato, resulta necesario establecer los procedimientos y obligaciones que deberán cumplir los establecimientos faenadores en la línea de faena respecto de la lectura de la identificación electrónica de los animales alcanzados, asegurando su adecuada correspondencia individual con la numeración de garrón asignada en la línea de faena y su posterior registración en el sistema que se propone en la presente medida.
+
+Que las actuales dinámicas de la industria cárnica y los avances en los procesos de faena, tanto de los animales ingresados a las plantas faenadoras como de sus reses, medias reses, cuartos y/u otras piezas resultantes, los sistemas de identificación y trazabilidad individual exigen una renovación del marco normativo mencionado, con el propósito de integrar las nuevas tecnologías y brindar a los operadores regulaciones más accesibles y eficientes.
+
+Que, en este sentido, resulta necesario mantener la exigencia tanto de los establecimientos faenadores de contar con corrales para la hacienda numerados y debidamente identificados como la de prohibir faenar aquellas haciendas que hubieren sido retiradas del cerco perimetral del establecimiento, salvo que reingresaran con un nuevo Documento de Tránsito Electrónico (DT-e) y, en caso de corresponder, además con guía sanitaria.
+
+Que, a efectos de realizar un efectivo control del ingreso de hacienda como de su posterior faena y destino, es necesario mantener el impedimento de la mezcla de animales que conforman distintas tropas, tanto en los corrales como al momento de su sacrificio, aunque pertenezcan al mismo propietario, a fines de que no se torne imposible cualquier tipo de análisis de trazabilidad de las mismas.
+
+Que, asimismo, incumbe mantener las medidas de control tendientes a posibilitar el correcto funcionamiento de la balanza de romaneo oficial y de todas aquellas en uso en los establecimientos faenadores.
+
+Que, igualmente, los establecimientos faenadores deben continuar identificando las reses, medias reses, cuartos y/u otras piezas resultantes mediante sellos, etiquetas, lazos u otros medios autorizados por la autoridad sanitaria consignando los datos requeridos, resultando este modo de identificación de fundamental importancia no sólo para tareas de fiscalización, al permitir conocer el origen y procedencia de las reses, medias reses, cuartos y/u otras piezas resultantes, sino también para quienes intervienen en las distintas etapas de la comercialización, al posibilitar controlar su peso, clasificación y tipificación, lo que en definitiva redunda en beneficio del consumidor.
+
+Que, en consecuencia, corresponde derogar las resoluciones 127 del 7 de febrero de 1973, 455 del 25 de abril de 1973, 936 del 11 de noviembre de 1981 y 152 del 24 de noviembre de 1983, todas de la ex Junta Nacional de Carnes, 400 del 31 de julio de 2001 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentación del entonces Ministerio de Economía, 4 del 18 de abril de 2008 y 43 del 7 de mayo de 2008, ambas de la ex Oficina Nacional de Control Comercial Agropecuario, organismo descentralizado en la órbita de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentos del entonces Ministerio de Economía y Producción, 586 del 11 de septiembre de 2015 del entonces Ministerio de Agricultura, Ganadería y Pesca, y la disposición 1988 del 20 de mayo de 2005 de la citada ex Oficina Nacional, y todas aquellas resoluciones que se opongan a lo establecido en la presente medida.
+
+Que esta medida se enmarca en las políticas de simplificación y eficiencia en la gestión pública, orientadas a optimizar los recursos del Estado Nacional y facilitar el cumplimiento de las obligaciones por parte de los administrados.
+
+Que el servicio jurídico permanente del Ministerio de Economía ha tomado la intervención de su competencia.
+
+Que la presente medida se dicta en uso de las facultades conferidas por la Ley de Ministerios -t.o. 1992- y sus modificaciones.
+
+Por ello,
+
+EL MINISTRO DE ECONOMÍA
+
+RESUELVE:
 
 Sistema Integral de Faena
 
@@ -50,6 +104,8 @@ d) Trazabilidad individual: Para aquellos animales que cuenten con identificaci�
 
 La autoridad de aplicación dispondrá la fecha de entrada en vigencia del presente inciso.
 
+(Nota Infoleg: por art. 1º de la Disposición Nº 50/2026 de la Dirección Nacional de Control Comercial Agropecuario B.O. 10/2/2026 se establece que lo previsto en el inciso entrará en vigencia a partir del día de la publicación de la medida de referencia en el Boletín Oficial. Por art. 2º de la misma norma se determina que el cumplimiento de lo dispuesto en el Artículo 11, inciso d) de la presente Resolución será obligatorio a partir del día 1 de julio de 2026, fecha desde la cual los establecimientos faenadores deberán haber completado las adecuaciones y cumplir con las condiciones técnicas necesarias para su implementación.)
+
 ARTÍCULO 12.- Existencias de Carne: Se entiende por tal al documento electrónico donde el responsable del establecimiento faenador registra de manera diaria las existencias de carne en cámaras, sea en reses, medias reses, cuartos y/u otras piezas resultantes. Es obligatoria la confección de “Existencias de Carne” mediante el SIF de todas las tropas luego de concluida la faena y de registrada la última salida de carne, completando los campos requeridos en dicho apartado del SIF.
 
 No resulta necesario contar con un libro físico de existencias y egresos de carne.
@@ -77,8 +133,6 @@ Capítulo I.5. Disposiciones Generales relativas al SIF
 ARTÍCULO 18.- El “Manual Técnico del Sistema SIF y/o Manual del Usuario”, estará disponible en el sitio “web” de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía y sus contenidos serán actualizados de acuerdo a las necesidades del SIF.
 
 ARTÍCULO 19.- Los documentos electrónicos oficiales de “Autorización de Faena”, “Resultado de Faena” y “Existencias de Carne” serán emitidos desde el SIF y contendrán toda la información que los mismos requieren para su confección.
-
-Título II
 
 Obligaciones relativas al Proceso de Faena
 
@@ -152,13 +206,9 @@ ARTÍCULO 34.- En los trozos menores a medias reses resultantes de animales bovi
 
 ARTÍCULO 35.- La correcta legibilidad tanto de los sellos como de las etiquetas, lazos o de cualquier otro medio autorizado será de exclusiva responsabilidad del establecimiento faenador, debiendo el mismo adoptar los recaudos necesarios para evitar tanto el chorreado de los primeros como el desprendimiento, la rotura o la realización de escrituras o enmiendas en los otros.
 
-Título III
-
 Marco Sancionatorio
 
 ARTÍCULO 36.- El incumplimiento de lo establecido en la presente resolución determinará la aplicación de las medidas cautelares y/o sanciones previstas en la ley 21.740 y en la resolución 50 del 11 de abril de 2025 de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, o la que en el futuro la reemplace.
-
-Título IV
 
 Disposiciones finales
 
