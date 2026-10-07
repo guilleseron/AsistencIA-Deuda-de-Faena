@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import os
-import glob
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -175,8 +174,7 @@ def main():
                     prompt_template = PromptTemplate.from_template(
                         """
                         Actúa como un asistente administrativo formal. 
-                        Basado en los siguientes datos tabulares que representan deudas de un usuario, redacta un breve párrafo 
-                        resumiendo la cantidad total de cabezas adeudadas agrupadas por especie.
+                        Basado en los siguientes datos tabulares que representan deudas de un usuario, redacta un breve párrafo resumiendo la cantidad total de cabezas adeudadas agrupadas por especie.
                         
                         Datos de deuda:
                         {datos_deuda}
