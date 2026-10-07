@@ -53,7 +53,17 @@ def load_data():
 @st.cache_resource
 def inicializar_motor_normativo():
     directorio_data = "data"
-    archivos_txt = glob.glob(os.path.join(directorio_data, "*.txt"))
+    
+    # 1. Verificación de existencia del directorio
+    if not os.path.exists(directorio_data):
+        return None
+        
+    # 2. Búsqueda de archivos ignorando mayúsculas/minúsculas en la extensión
+    archivos_txt = [
+        os.path.join(directorio_data, f) 
+        for f in os.listdir(directorio_data) 
+        if f.lower().endswith('.txt')
+    ]
     
     if not archivos_txt:
         return None
@@ -72,7 +82,6 @@ def inicializar_motor_normativo():
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=600, chunk_overlap=100)
     docs_divididos = text_splitter.split_documents(documentos)
     
-    # Vectorización local para optimización de recursos
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     vector_store = FAISS.from_documents(docs_divididos, embeddings)
     
