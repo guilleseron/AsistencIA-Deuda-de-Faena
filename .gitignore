@@ -6,7 +6,6 @@ __pycache__/
 *.pyc
 
 # Base de datos local
-data/
 *.xlsx
 *.csv
 

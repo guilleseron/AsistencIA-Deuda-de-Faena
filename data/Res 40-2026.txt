@@ -1,0 +1,169 @@
+Título I
+
+Sistema Integral de Faena
+
+Capítulo I.1. Sistema. Operadores Obligados. Autoridad de Control
+
+ARTÍCULO 1°.- Créase el Sistema Integral de Faena, en adelante SIF, a través del cual, los titulares de establecimientos faenadores registrarán la hacienda con destino a faena y cuya interfaz será provista por la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía.
+
+El SIF establecido en la presente medida es continuador del Sistema Integral de Faena (S.I.F.) creado por la resolución 586 del 11 de septiembre de 2015 del entonces Ministerio de Agricultura, Ganadería y Pesca, y todos los documentos físicos y electrónicos generados en el marco del S.I.F. de la mencionada resolución conservan y mantienen su validez, carácter y efectos a todos los fines que puedan corresponder.
+
+ARTÍCULO 2°.- Se entenderá por “establecimiento faenador” a todo aquel en el cual se sacrifiquen animales de las especies bovina, bubalina, porcina, equina, ovina y caprina con destino a consumo comprendido en el Capítulo 2 del anexo I a la resolución 50 del 11 de abril de 2025 de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, o la que en el futuro la reemplace.
+
+En el caso de establecimientos faenadores incorporados en el Sistema Integrado de Gestión de Inocuidad y Calidad Agroalimentaria (SIGICA), establecido por la resolución 462 del 15 de octubre de 2014 del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), organismo descentralizado en la órbita del entonces Ministerio de Agricultura, Ganadería y Pesca, sus titulares deberán registrar la hacienda con destino a faena a través del referido Sistema.
+
+Siempre que en la presente medida se menciona al SIF se entenderá que para los establecimientos faenadores habilitados por SENASA la referencia es al SIGICA.
+
+En caso de que un establecimiento faenador modifique su habilitación sanitaria de provincial o municipal a nacional de SENASA o viceversa, deberá registrar sus movimientos, según corresponda, a través del SIGICA o del SIF.
+
+ARTÍCULO 3°.- Establécese que la Dirección Nacional de Control Comercial Agropecuario de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, o la que en el futuro la reemplace, será la autoridad de aplicación del SIF.
+
+ARTÍCULO 4°.- Los titulares de establecimientos faenadores se encuentran obligados a registrar en el SIF mediante formularios digitales el ingreso de la hacienda, la autorización de faena, el resultado de faena y el detalle de las existencias diarias de carne, sea en reses, medias reses, cuartos y/u otras piezas resultantes, en las cámaras del establecimiento.
+
+ARTÍCULO 5°.- Para realizar todos los trámites u obligaciones emergentes de este régimen de información, los obligados deberán ingresar en el servicio S.I.F. dentro del portal “MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA - AUTOGESTIÓN MAGyP” del sitio “web” de la Agencia de Recaudación y Control Aduanero (ARCA), ente autárquico en el ámbito del Ministerio de Economía (http://www.afip.gob.ar), mediante la utilización de la “clave fiscal” obtenida según el procedimiento establecido por la resolución general 5048 del 11 de agosto de 2021 de la ex Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, consignando los datos requeridos por el sistema.
+
+Capítulo I.2. Obligaciones relativas al SIF
+
+ARTÍCULO 6°.- Cierre del Documento de Tránsito Electrónico (DT-e) al arribo: por cada tropa arribada al establecimiento, es obligación del responsable de este proceder al cierre inmediato del DT-e en el SIF con la inclusión del número de tropa y del número de corral asignado a dicha tropa.
+
+Los titulares de establecimientos de faena deben hacer constar en el SIF el estado de “NO ARRIBO” del DT-e, cuando los animales no hayan ingresado al establecimiento y hasta el momento de su vencimiento.
+
+ARTÍCULO 7°.- Ingreso de Hacienda: Los registros correspondientes a las entradas de hacienda al establecimiento quedan incorporados en el “Libro de Ingreso de Hacienda Electrónico”, que se conforma automáticamente con el cierre de cada DT-e en el SIF.
+
+No resulta necesario contar con un libro físico de ingreso y existencias de hacienda.
+
+ARTÍCULO 8°.- Autorización de Faena: Previo al ingreso a faena de cada tropa, sea total o parcial, debe confeccionarse mediante el SIF la “Autorización de Faena”. Como resultado de dicha autorización, el sistema emite un comprobante consistente en el listado de tropas, parciales o totales, autorizadas a faenar. Éste debe ser impreso en formato papel, de acuerdo al modelo de impresión generado desde el SIF, y suscripto por el Servicio de Inspección Veterinaria destacado en el establecimiento. Las Autorizaciones de Faena deben conservarse archivadas en forma correlativa por el término de un (1) año.
+
+ARTÍCULO 9°.- Queda prohibida la faena de tropas de animales que no se encuentre respaldada por su correspondiente “Autorización de Faena”.
+
+ARTÍCULO 10.- Decomisos de Carne: Ante la disminución en el valor comercial de una res sobre la que se le ha practicado un decomiso, el titular del establecimiento debe ingresar en el SIF la información correspondiente, que autorizará y documentará, sin excepción, el Servicio de Inspección Veterinaria destacado en el establecimiento. En aquellos casos donde la planta faenadora cuente con supervisión sanitaria del SENASA, será personal de este Servicio Nacional el sujeto obligado a ingresar los datos de los decomisos en el sistema.
+
+ARTÍCULO 11.- Resultado de Faena y Trazabilidad Individual:
+
+a) Se entiende por “Resultado de Faena” al documento electrónico en el cual el responsable del establecimiento faenador registra los resultados de la faena correspondientes a cada tropa sacrificada en dicho establecimiento; documento que es comúnmente identificado bajo la denominación de “romaneo”.
+
+b) Es obligatoria la confección del “Resultado de Faena” mediante el SIF de todas las tropas correspondientes a la faena diaria al momento de finalizar la misma, completando los campos requeridos en dicho apartado del SIF.
+
+c) El “Resultado de Faena” debe ser suscripto por el Tipificador Oficial en todos los establecimientos faenadores, conforme lo establecido en la disposición 115 del 21 de agosto de 2024 de la Dirección Nacional de Control Comercial Agropecuario de la ex Secretaría de Bioeconomía del Ministerio de Economía. Dicha suscripción por el Tipificador Oficial se realizará de acuerdo a las pautas explicadas en el “Manual Técnico del Sistema SIF y/o Manual del Usuario” establecido en el artículo 18 de la presente medida.
+
+d) Trazabilidad individual: Para aquellos animales que cuenten con identificación electrónica, conforme lo establecido por las resoluciones 71 del 16 de octubre de 2024 de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía y 841 del 31 de octubre de 2025 del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), organismo descentralizado en la órbita de la citada Secretaría o las que en el futuro las reemplacen, los establecimientos faenadores deberán arbitrar los medios necesarios para efectuar la lectura de dicha identificación en la línea de faena, a los efectos de garantizar la trazabilidad de cada animal. La información obtenida deberá asociar de manera precisa el número de identificación electrónica individual al número de garrón correspondiente y se deberá registrar dicha vinculación en el “Resultado de Faena”.
+
+La autoridad de aplicación dispondrá la fecha de entrada en vigencia del presente inciso.
+
+ARTÍCULO 12.- Existencias de Carne: Se entiende por tal al documento electrónico donde el responsable del establecimiento faenador registra de manera diaria las existencias de carne en cámaras, sea en reses, medias reses, cuartos y/u otras piezas resultantes. Es obligatoria la confección de “Existencias de Carne” mediante el SIF de todas las tropas luego de concluida la faena y de registrada la última salida de carne, completando los campos requeridos en dicho apartado del SIF.
+
+No resulta necesario contar con un libro físico de existencias y egresos de carne.
+
+ARTÍCULO 13.- Salida de Carne: La salida del establecimiento de carne y subproductos derivados de la faena de hacienda de las especies bovinas, bubalinas y porcinas, deberá ser acompañada por la emisión del Remito Electrónico Cárnico, conforme lo establecido en la resolución 4256 del 30 de mayo de 2018 de la ex Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del entonces Ministerio de Hacienda y sus modificatorias, o la que en el futuro la reemplace.
+
+La salida del establecimiento de carne y subproductos derivados de la faena de hacienda de las especies equina, ovina y caprina, deberá ser acompañada de remitos prenumerados o facturas definitivas, conforme lo previsto en la resolución 215 del 31 de julio de 1991 de la ex Junta Nacional de Carnes, o la que en el futuro la reemplace.
+
+En todo remito que acompañe la salida de carne y subproductos de las especies bovina, bubalina, porcina, equina, ovina y caprina deberá indicarse el número de Certificado Sanitario otorgado por la autoridad sanitaria nacional, provincial o municipal destacada en el establecimiento faenador y que ampara el egreso de dicha mercadería del mismo.
+
+Capítulo I.3. Documentación a Conservar y Requerimientos
+
+ARTÍCULO 14.- La información registrada por los operadores responsables de los establecimientos faenadores en cada una de las etapas del SIF tendrá carácter de Declaración Jurada.
+
+ARTÍCULO 15.- Los titulares de los establecimientos faenadores deberán presentar impresa la información registrada en cada uno de los documentos electrónicos del SIF ante el requerimiento de un inspector de la autoridad de aplicación, pudiendo dicha impresión ser realizada en el mismo acto del requerimiento, a excepción de la Autorización de Faena, que debe ser impresa y suscripta por el Servicio de Inspección Veterinaria siempre previo al comienzo de la faena según se establece en el artículo 8° de la presente resolución.
+
+Capítulo I.4. Medidas Preventivas y Restricciones
+
+ARTÍCULO 16.- Se dispondrá la suspensión preventiva, previa notificación de la autoridad de aplicación a efectos de regularizar la situación en un plazo perentorio, de los operadores que incumplan con lo dispuesto en los artículos precedentes, con el consecuente bloqueo de emisión de DT-e con destino a sus establecimientos faenadores.
+
+ARTÍCULO 17.- Queda prohibida la emisión de DT-e con destino a todo operador que, debiendo estar inscripto en el Sistema de Información de Operadores de Carnes y Lácteos (SIOCAL), no haya obtenido la correspondiente matrícula con arreglo a lo dispuesto por la resolución 50 del 11 de abril de 2025 de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, o la que en el futuro la reemplace.
+
+Capítulo I.5. Disposiciones Generales relativas al SIF
+
+ARTÍCULO 18.- El “Manual Técnico del Sistema SIF y/o Manual del Usuario”, estará disponible en el sitio “web” de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía y sus contenidos serán actualizados de acuerdo a las necesidades del SIF.
+
+ARTÍCULO 19.- Los documentos electrónicos oficiales de “Autorización de Faena”, “Resultado de Faena” y “Existencias de Carne” serán emitidos desde el SIF y contendrán toda la información que los mismos requieren para su confección.
+
+Título II
+
+Obligaciones relativas al Proceso de Faena
+
+Capítulo II. Ingreso de Hacienda a Corrales
+
+ARTÍCULO 20.- Marcas y señales: El establecimiento faenador tendrá la obligación de verificar que los animales de las especies bovina, bubalina, porcina, equina, ovina y caprina ingresen debidamente identificados, respectivamente, con marcas y señales, según lo establecido por la ley 22.939, que coincidan de manera íntegra con las consignadas en los correspondientes documentos de amparo.
+
+En caso de falta de coincidencia entre los datos consignados en el DT-e y la mercancía efectivamente ingresada, se deberá proceder conforme lo establecido en el apartado IV.3. del anexo I a la resolución 356 del 17 de octubre de 2008 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentos del entonces Ministerio de Economía y Producción y su modificatoria, dejando constancia de dicha situación mediante una observación en el DT-e y dando aviso a la oficina local del SENASA, según su jurisdicción, dentro del plazo de veinticuatro (24) horas de ocurrido el suceso.
+
+ARTÍCULO 21.- Los establecimientos faenadores contarán con corrales para la hacienda numerados y debidamente identificados.
+
+La información sobre la hacienda que permanece en los corrales será la que se registrará automáticamente con el cierre de los correspondientes DT-e en el “Libro de Ingreso de Hacienda Electrónico”, conforme se establece en el artículo 7° de la presente medida. En caso de realizar algún movimiento posterior a dicho registro, el responsable del establecimiento deberá contar en todo momento con el registro de qué tropa se encuentra en cada corral, conteniendo, como mínimo, los siguientes datos: a) número de corral; b) número de DT-e; c) número de tropa; y d) cantidad de animales.
+
+ARTÍCULO 22.- Los responsables de plantas faenadoras deberán adoptar todos los recaudos necesarios con el objeto de evitar que las tropas ingresadas a sus establecimientos, propias y/o de terceros, cualquiera sea su procedencia, sean mezcladas entre sí, tanto en los corrales como al momento de su sacrificio, aunque pertenezcan al mismo propietario.
+
+Capítulo III. Faena de Hacienda
+
+ARTÍCULO 23.- La información relativa a la identificación de la res, su clasificación y tipificación, a protocolos de calidad y demás datos que pudieren resultar del proceso de faena y desposte de animales pertenecientes a las especies bovinas, bubalinas, porcinas, ovinas y caprinas será materializada, según lo establecido en el presente capítulo y en el que le sigue, mediante la utilización de sellos, etiquetas impresas por medio de sistemas de computación, lazos o cualquier otro medio autorizado por el Servicio Nacional de Calidad y Sanidad Agroalimentaria (SENASA), organismo descentralizado en la órbita de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, confeccionados en material apto para su contacto con la carne.
+
+ARTÍCULO 24.- Los establecimientos faenadores numerarán correlativamente, previo al aserrado y partiendo diariamente del número uno (1), las reses que se sacrifiquen en cada jornada, identificando dicho número correlativo de faena en las siguientes partes:
+
+a) Para la especie bovina, en la parte externa de los garrones y/o de los brazuelos de cada res.
+
+b) Para la especie porcina (excepto lechones), en la parte externa de los garrones.
+
+c) Para los lechones, ovinos y caprinos, en la proximidad del garrón, en una de las caras externas de las piernas.
+
+ARTÍCULO 25.- Dentición: Conforme lo establecido en el anexo I a la resolución 32 del 1° de noviembre del 2018 de la ex Secretaría de Gobierno de Agroindustria del entonces Ministerio de Producción y Trabajo, en los establecimientos faenadores se registrará la dentición del animal durante la faena, de forma que exista correspondencia entre la cabeza y su correspondiente res.
+
+La información relativa a la dentición se identificará en el cuarto delantero sobre la paleta.
+
+ARTÍCULO 26.- A efectos de la determinación de sus pesos, las medias reses bovinas deberán llegar al palco de tipificación con la identificación de la dentición efectuada previamente según se establece en el artículo precedente y pasar por la balanza para registrar oficialmente su pesaje, conforme la siguiente preparación:
+
+a) La separación de la cabeza se hará de tal manera que la primera vértebra cervical quede adherida a la res.
+
+b) Las patas deberán cortarse en la segunda coyuntura, entre el tarso y metatarso y entre el carpo y el metacarpo.
+
+c) La separación del rabo se efectuará de tal forma que la primera vértebra coxígea quede adherida a la res.
+
+d) El diafragma deberá quedar adherido a la res.
+
+e) Deberán ser desprovistas del riñón y de las grasas de riñonada, del canal pelviano del escroto (capadura), de corazón y limpias de degolladura.
+
+f) Las reses clasificadas como vacas tendrán que ser desprovistas de la ubre.
+
+Toda otra preparación que se le practique a la media res en forma adicional a las obligatorias descriptas precedentemente deberá efectuarse, sin excepción, luego de pasar por el palco de tipificación.
+
+ARTÍCULO 27.- Los establecimientos faenadores deberán controlar antes del comienzo de cada faena el correcto funcionamiento de la Balanza Oficial de Romaneo utilizando a tal fin pesas de contraste en cantidad suficiente para cubrir un total mínimo de ciento ochenta kilogramos (180 kg). Dichas pesas de contraste estarán a disposición del personal de la autoridad de aplicación, para efectuar los controles de la citada balanza o de cualquier otra del establecimiento en las oportunidades que estime conveniente.
+
+Capítulo IV. Información a registrar sobre las Reses y Medias Reses
+
+ARTÍCULO 28.- En el proceso de faena de los animales pertenecientes a las especies bovinas, bubalinas, porcinas, ovinas y caprinas, la información relativa a la Clasificación, Número de Tropa y Peso deberá identificarse sobre las reses y medias reses al momento de pasar éstas por el palco de tipificación o, en aquellos establecimientos que no cuenten con el mismo, inmediatamente después de la balanza de pesada, mediante alguno de los medios previstos en el artículo 23 de la presente medida.
+
+ARTÍCULO 29.- En las medias reses bovinas, ajustándose a las especificaciones establecidas por la resolución 32 del 1° de noviembre de 2018 de la ex Secretaría de Gobierno de Agroindustria del entonces Ministerio de Producción y Trabajo, la Clasificación, Número de Tropa y Peso deberán ser identificados en el cuarto trasero sobre el músculo glúteo superficial (tapa de cuadril) y/o en el cuarto delantero sobre el músculo pectoral (pecho).
+
+Asimismo, conforme lo establecido en la disposición 115 del 21 de agosto de 2024 de la Dirección Nacional de Control Comercial Agropecuario de la ex Secretaría de Bioeconomía del Ministerio de Economía, los establecimientos faenadores identificarán también la Tipificación y Destino Comercial (Consumo o Exportación), junto con la demás información que estimen pertinente agregar, en las zonas detalladas precedentemente.
+
+ARTÍCULO 30.- Aquellos establecimientos que faenen bubalinos deberán identificar la clasificación de las medias reses conforme lo establecido en la resolución 470 del 22 de junio de 2012 del entonces Ministerio de Agricultura, Ganadería y Pesca.
+
+ARTÍCULO 31.- En los porcinos, ajustándose a las especificaciones establecidas por la resolución 144 del 16 de marzo de 2005 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentos del entonces Ministerio de Economía y Producción, la información de la Clasificación, Número de Tropa y Peso será colocada en aquellos lugares que resulten de menor valor comercial, siempre que resulten legibles.
+
+Aquellas plantas que cuenten con habilitación en el Sistema de Tipificación Oficial de Reses Porcinas también identificarán la Tipificación y Destino Comercial (Consumo o Exportación), junto con la demás información que estimen pertinente agregar, en las zonas detalladas precedentemente.
+
+En el caso de lechones que se comercialicen en reses enteras, la identificación se realizará en un solo lugar de la res.
+
+ARTÍCULO 32.- En los ovinos y caprinos, incluidos corderos y cabritos, la identificación del Número de Tropa y Peso, junto con la demás información que estimen pertinente agregar, se colocará en aquellos lugares que resulten de menor valor comercial, siempre que resulten legibles.
+
+ARTÍCULO 33.- En caso de utilizarse sellos, sólo se admitirá el uso de tinta de color violeta, la que deberá contar con aprobación sanitaria para tal fin. Sin perjuicio de ello, en la especie porcina se podrá reemplazar el uso de los sellos de número correlativo de faena y de peso por escritura manual efectuada con lápiz tinta de color violeta.
+
+ARTÍCULO 34.- En los trozos menores a medias reses resultantes de animales bovinos y bubalinos deberán colocarse etiquetas o lazos con la identificación referida en los artículos 29 y 30 de la presente resolución, quedando totalmente adheridos o sujetados a la carne, siendo prohibida su fijación mediante hilos, lancetas u otro medio que no implique la adherencia de toda su superficie.
+
+ARTÍCULO 35.- La correcta legibilidad tanto de los sellos como de las etiquetas, lazos o de cualquier otro medio autorizado será de exclusiva responsabilidad del establecimiento faenador, debiendo el mismo adoptar los recaudos necesarios para evitar tanto el chorreado de los primeros como el desprendimiento, la rotura o la realización de escrituras o enmiendas en los otros.
+
+Título III
+
+Marco Sancionatorio
+
+ARTÍCULO 36.- El incumplimiento de lo establecido en la presente resolución determinará la aplicación de las medidas cautelares y/o sanciones previstas en la ley 21.740 y en la resolución 50 del 11 de abril de 2025 de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, o la que en el futuro la reemplace.
+
+Título IV
+
+Disposiciones finales
+
+ARTÍCULO 37.- Delégase en la Dirección Nacional de Control Comercial Agropecuario de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, o la que en el futuro la reemplace en el ámbito de la citada Secretaría, la facultad de dictar las normas complementarias, aclaratorias y modificatorias que resulten necesarias para la efectiva implementación de la presente resolución.
+
+ARTÍCULO 38.- Deróganse las resoluciones 127 del 7 de febrero de 1973, 455 del 25 de abril de 1973, 936 del 11 de noviembre de 1981 y 152 del 24 de noviembre de 1983, todas de la ex Junta Nacional de Carnes, 400 del 31 de julio de 2001 de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentación del entonces Ministerio de Economía, 4 del 18 de abril de 2008 y 43 del 7 de mayo de 2008, ambas de la ex Oficina Nacional de Control Comercial Agropecuario, organismo descentralizado en la órbita de la ex Secretaría de Agricultura, Ganadería, Pesca y Alimentos del entonces Ministerio de Economía y Producción, 586 del 11 de septiembre de 2015 del entonces Ministerio de Agricultura, Ganadería y Pesca, y la disposición 1988 del 20 de mayo de 2005 de la citada ex Oficina Nacional, y todas aquellas resoluciones que se opongan a lo establecido en la presente medida.
+
+ARTÍCULO 39.- La presente resolución entrará en vigencia el día 1° de enero de 2026, con excepción de lo dispuesto en el inciso d) de su artículo 11.
