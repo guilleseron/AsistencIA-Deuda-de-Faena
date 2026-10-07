@@ -79,13 +79,13 @@ def inicializar_motor_normativo():
     if not documentos:
         return None
         
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=600, chunk_overlap=100)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=250)
     docs_divididos = text_splitter.split_documents(documentos)
     
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
     vector_store = FAISS.from_documents(docs_divididos, embeddings)
     
-    return vector_store.as_retriever(search_kwargs={"k": 3})
+    return vector_store.as_retriever(search_kwargs={"k": 8})
 
 def obtener_cadena_rag(retriever, llm):
     plantilla_prompt = """
