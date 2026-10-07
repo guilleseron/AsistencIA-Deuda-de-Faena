@@ -36,7 +36,7 @@ def init_llm():
 @st.cache_data
 def load_data():
     try:
-        file_id = "INSERTAR_ID_DEL_DOCUMENTO_AQUI"
+        file_id = "1z0PpKAbw37rG-koBo4SieWAquFETP3ce"
         url_descarga = f"https://drive.google.com/uc?export=download&id={file_id}"
         dtypes = {
             'establecimiento': str,
